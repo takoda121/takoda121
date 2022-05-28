@@ -2,6 +2,7 @@
 <h3 align="center">I´m C# developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takoda121&label=Profile%20views&color=0e75b6&style=flat" alt="takoda121" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=takoda121&show_icons=true&locale=en&layout=compact" alt="takoda121" /></p>
 
 - 🔭 I’m currently working on [FreeSploit/AimSploit](https://github.com/AimSploit/FreeSploit)
 
