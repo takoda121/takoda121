@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Take</h1>
-<h3 align="center">FullStack C++ Developer</h3>
+<h3 align="center">BackEnd C++ Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=takoda121&style=flat-square" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takoda121" alt="takoda121" /></a> </p>
 
-- 🔭 I’m currently working on [SensWare](https://github.com/AimSploit/SensWare)
+- 🔭 I’m currently working on **Krypton**
 
-- 🌱 I’m currently learning **C++,NodeJS,PHP**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Osiris](https://github.com/danielkrupinski/Osiris)
+- 👯 I’m looking to collaborate on [Osiris](https://github.com/danielkrupinski/Osiris)  
 
-- 🤝 I’m looking for help with [SensWare](https://github.com/AimSploit/SensWare)
+- 🖥️ Languages I know: **C++, Py, C#, Php, Kotlin, Many more**  
+
+- 🌍 Languages I know: **Czech, English**  
+
+- 🌍📒 Languages Im learning: **Arabic, Russian**
+
+- 🤝 I’m looking for help with **Nothing rn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/takoda121?tab=repositories](https://github.com/takoda121?tab=repositories)
 
