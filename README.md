@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Take</h1>
+<h1 align="center">Hi 👋, I'm Nimbus</h1>
 <h3 align="center">BackEnd C++ Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=takoda121&style=flat-square" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takoda121" alt="takoda121" /></a> </p>
