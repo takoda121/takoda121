@@ -6,7 +6,7 @@
 
 ```py
   Name : Tacos
-  Skillset : C++, Kotlin, C#, PHP, Python and MicroPython
+  Skillset : C++, Kotlin, C-Sharp, PHP, Python and MicroPython
   Hobbies  : [
    BackEnd Development(C++, PHP)
    Linux
