@@ -12,7 +12,11 @@
    Linux
   ],
   Projects : [ 
-    Roblox Launcher, Krypton, Password-Manager, AimSploit, Sens Hub
+    Archived: Roblox Launcher, Krypton, Password-Manager
+    Maintained : [
+                  Public: Password-Manager
+                  Private: SysAuth, Big Games API Discord Bot (Soon public!)
+],
   ]
   
 ```
