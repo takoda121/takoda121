@@ -5,18 +5,17 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/77277659?v=4" width="189"/>
 
 ```py
-  Name : Tacos
+  Name : SystemD
   Skillset : C++, Kotlin, C-Sharp, PHP, Python and MicroPython
   Hobbies  : [
-   BackEnd Development(C++, PHP)
-   Linux
+   BackEnd Development(C++, PHP),
+   Cheat Development,
+   3D Printing
   ],
   Projects : [ 
-    Archived: Roblox Launcher, Krypton, Password-Manager
+    Archived: Roblox Launcher, Krypton
     Maintained : [
-                  Public: Password-Manager
-                  Private: SysAuth, Big Games API Discord Bot (Soon public!)
-],
+                  Password-Manager
   ]
   
 ```
