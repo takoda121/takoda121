@@ -19,5 +19,5 @@
   ]
   
 ```
-I only work on weekends (DD/MM): 1.2-1.4, 1.5-1.7, 10.9-1.11  
-Not active while Czech national holidays
+I only work on weekends.  
+Not active on Czech national holidays
